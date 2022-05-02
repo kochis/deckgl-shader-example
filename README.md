@@ -13,6 +13,8 @@ npm run dev
 ```
 
 You should see something similar at the server location.
+<img width="1145" alt="image" src="https://user-images.githubusercontent.com/814934/166171597-fe6691fb-7796-4af8-9ca0-f289c8143554.png">
+
 
 ## The Code
 The custom layer in question is in `/layers/CustomLayer.js`
