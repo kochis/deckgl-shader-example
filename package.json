@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "deck.gl": "^8.7.8",
+    "lodash": "^4.17.21",
     "next": "12.1.5",
     "react": "18.1.0",
     "react-dom": "18.1.0"
